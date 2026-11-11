@@ -15,8 +15,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=drssnaiml1-cell&label=Profile%20views&color=0B1F3A&style=flat-square" alt="Profile views">
-  <a href="https://github.com/drssnaiml1-cell?tab=followers"><img src="https://img.shields.io/github/followers/drssnaiml1-cell?label=Followers&style=flat-square&color=C9A227" alt="Followers"></a>
-  <a href="https://github.com/drssnaiml1-cell/algolang/stargazers"><img src="https://img.shields.io/github/stars/drssnaiml1-cell/algolang?label=AlgoLang%20stars&style=flat-square&color=C9A227" alt="AlgoLang stars"></a>
 </p>
 
 <p align="center">

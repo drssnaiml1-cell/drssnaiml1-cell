@@ -45,11 +45,12 @@ def main():
             ("Commits (incl. private)", c["totalCommitContributions"] + c["restrictedContributionsCount"]),
             ("Pull requests", c["totalPullRequestContributions"]), ("Public repositories", u["repositories"]["totalCount"]),
             ("Stars earned", sum(r["stargazerCount"] for r in repos)), ("Followers", u["followers"]["totalCount"])]
+    rows = [r for r in rows if r[1]] or rows      # show only the figures that have started counting
     body = "".join(f'<g class="r" style="animation-delay:{i * .1:.1f}s"><circle cx="30" cy="{68 + i * 26}" r="4" fill="#C9A227"/>'
                    f'<text x="44" y="{73 + i * 26}" class="l">{esc(k)}</text><text x="376" y="{73 + i * 26}" class="v" '
                    f'text-anchor="end">{v:,}</text></g>' for i, (k, v) in enumerate(rows))
     os.makedirs(OUT, exist_ok=True)
-    open(f"{OUT}/stats.svg", "w").write(card(400, 230, "GitHub stats", body))
+    open(f"{OUT}/stats.svg", "w").write(card(400, max(130, 70 + 26 * len(rows)), "GitHub stats", body))
     langs = {}
     for r in repos:
         for e in r["languages"]["edges"]:

@@ -29,15 +29,36 @@
 
 ## About Me
 
-```python
-class DrSatyanarayana:
-    role       = "Founder, CEO & Chief Agentic AI Scientist — AlgoProfessor AI R&D Solutions, Hyderabad"
-    created    = ["AlgoLang: the agent-native programming language", "ASTRA AI reference architecture"]
-    research   = ["Agentic AI", "Trustworthy & Explainable AI", "Graph ML", "Deep Learning", "Quantum AI", "AI Security"]
-    mentoring  = "56 Ph.D. and postdoctoral scholars, incl. international co-supervision at NYUST and NKUST, Taiwan"
-    record     = {"publications": "60+", "patents": "11+", "books": 11, "years": 22}
-    mission    = "Turn frontier AI research into governed systems that people can trust"
-```
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I am an **Agentic AI scientist and educator** who turns frontier AI research into systems people can trust.
+
+As **Founder, CEO & Chief Agentic AI Scientist of [AlgoProfessor AI R&D Solutions](https://www.algoprofessor.com)** in Hyderabad, I lead research and product work on governed multi-agent AI. I designed **[AlgoLang](https://github.com/drssnaiml1-cell/algolang)**, an agent-native programming language in which every AI decision is checked, explained, signed and tested before it ships. I also created the **ASTRA** AI reference architecture.
+
+My research spans **agentic AI, trustworthy and explainable AI, graph machine learning, deep learning, quantum AI and AI security**. I mentor **56 Ph.D. and postdoctoral scholars**, including international postdoctoral co-supervision at **NYUST** and **NKUST** in Taiwan.
+
+</td>
+<td width="38%" valign="top">
+
+**At a glance**
+
+🎓 Ph.D., PDF (AI)<br>
+📚 60+ SCI / Scopus / IEEE papers<br>
+💡 11+ published patents<br>
+📖 11 books<br>
+👩‍🎓 56 Ph.D. & postdoctoral scholars<br>
+⏳ 22 years in teaching & R&D<br>
+🧠 Creator of AlgoLang & ASTRA<br>
+📍 Hyderabad, India
+
+**Open to**<br>
+Research collaboration · industry R&D · keynotes · AI strategy
+
+</td>
+</tr>
+</table>
 
 ---
 

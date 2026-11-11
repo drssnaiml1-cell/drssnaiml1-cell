@@ -21,8 +21,6 @@
 ## About Me
 
 - **Founder, CEO & Chief Agentic AI Scientist**, [AlgoProfessor AI R&D Solutions](https://www.algoprofessor.com), Hyderabad
-- **Professor & Advisor, AI & Data Science**, Sanjivani University, Kopargaon, Maharashtra
-- **Editor-in-Chief**, International Journal of Computational Mathematics and Informatics (IJCMI)
 - **International Postdoctoral Research Co-Supervisor**: NYUST / YunTech (ICSL) and NKUST (Research Institute of IoT Cybersecurity), Taiwan
 - **56 Ph.D. and postdoctoral scholars** supervised and mentored
 

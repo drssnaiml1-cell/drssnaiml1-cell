@@ -48,13 +48,10 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 📚 60+ SCI / Scopus / IEEE papers<br>
 💡 11+ published patents<br>
 📖 11 books<br>
-👩‍🎓 56 Ph.D. & postdoctoral scholars<br>
+🧑‍🎓 56 Ph.D. & postdoctoral scholars<br>
 ⏳ 22 years in teaching & R&D<br>
 🧠 Creator of AlgoLang & ASTRA<br>
 📍 Hyderabad, India
-
-**Open to**<br>
-Research collaboration · industry R&D · keynotes · AI strategy
 
 </td>
 </tr>

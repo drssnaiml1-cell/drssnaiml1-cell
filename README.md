@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/drssnaiml1-cell/algolang"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=C9A227&center=true&vCenter=true&width=820&lines=Agents%2C+not+functions%3A+I+designed+AlgoLang;Trustworthy+AI+you+can+prove%2C+not+just+claim;21+governed+AI+applications+from+banking+to+transport;Graph+ML+%C2%B7+Deep+Learning+%C2%B7+Quantum+AI;Research+that+ships+as+working+software" alt="Typing banner"></a>
+  <a href="https://github.com/drssnaiml1-cell/algolang"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=C9A227&center=true&vCenter=true&width=820&lines=Agents%2C+not+functions%3A+I+designed+AlgoLang;Trustworthy+AI+you+can+prove%2C+not+just+claim;AlgoLang+1.0%3A+typed+agents%2C+a+native+VM%2C+signed+packages;Graph+ML+%C2%B7+Deep+Learning+%C2%B7+Quantum+AI;Research+that+ships+as+working+software" alt="Typing banner"></a>
 </p>
 
 <p align="center">
@@ -95,11 +95,11 @@ AlgoLang compiles governed multi-agent programs in which every decision is <b>ch
 <p align="center">
   <a href="https://github.com/drssnaiml1-cell/algolang"><b>Explore AlgoLang →</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/drssnaiml1-cell/algolang/releases/latest"><b>Latest release</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/drssnaiml1-cell/algolang/tree/main/enterprise-apps"><b>21 applications</b></a>
+  <a href="https://github.com/drssnaiml1-cell/algolang/tree/main/enterprise-apps"><b>22 applications</b></a>
 </p>
 
 <details>
-<summary><b>21 applications built in AlgoLang</b> (click to expand)</summary>
+<summary><b>22 applications built in AlgoLang</b> (click to expand)</summary>
 <br>
 
 | Domain | Application |
@@ -110,6 +110,7 @@ AlgoLang compiles governed multi-agent programs in which every decision is <b>ch
 | Machine learning · Reinforcement learning · XAI | Model Factory · RL Control Room · XAI Audit Studio |
 | NLP · Indian languages · Digital health | Document Intelligence · Bharat Bhasha Desk · Remote Monitoring |
 | Biology · Engineering · Smart cities · Transport | Network Biology Lab · Predictive Maintenance · City Operations · Transport Optimizer |
+| Quantum AI | AlgoQ Quantum AI Lab (VQE, kernels, hardware backends) |
 
 </details>
 

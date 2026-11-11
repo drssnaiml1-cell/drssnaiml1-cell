@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,55:1E3A6E,100:C9A227&height=250&section=header&text=Dr.%20S.%20Satyanarayana&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Agentic%20AI%20Scientist%20%7C%20Founder%20%26%20CEO%2C%20AlgoProfessor%20%7C%20Creator%20of%20AlgoLang&descSize=19&descAlignY=58&descAlign=50&animation=fadeIn" alt="Dr. S. Satyanarayana: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
+  <img src="assets/header.svg" alt="Dr. S. Satyanarayana: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
 </p>
 
 <h3 align="center">Ph.D., PDF (AI) · Hyderabad, India · 60+ SCI/Scopus/IEEE Publications · 11+ Patents · 11 Books</h3>
@@ -147,16 +147,12 @@ class DrSatyanarayana:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drssnaiml1-cell&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=C9A227&icon_color=C9A227&text_color=E8ECF4&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drssnaiml1-cell&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=C9A227&text_color=E8ECF4" alt="Top languages" height="170">
+  <img src="https://raw.githubusercontent.com/drssnaiml1-cell/drssnaiml1-cell/output/stats.svg" alt="GitHub stats" width="48%">
+  <img src="https://raw.githubusercontent.com/drssnaiml1-cell/drssnaiml1-cell/output/languages.svg" alt="Top languages" width="48%">
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=drssnaiml1-cell&hide_border=true&background=0B1F3A&ring=C9A227&fire=F2D372&currStreakLabel=C9A227&sideLabels=E8ECF4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B9C3D6&stroke=1E3A6E" alt="Contribution streak" width="70%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=drssnaiml1-cell&bg_color=0B1F3A&color=E8ECF4&line=C9A227&point=F2D372&area=true&area_color=C9A227&hide_border=true&radius=12" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
@@ -178,5 +174,5 @@ class DrSatyanarayana:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,45:1E3A6E,100:0B1F3A&height=120&section=footer" alt="" width="100%">
+  <img src="assets/footer.svg" alt="" width="100%">
 </p>

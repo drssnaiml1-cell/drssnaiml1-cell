@@ -1,5 +1,6 @@
-# Draws the contribution-graph snake shown on the profile page (navy and gold), daily and on demand.
-name: Contribution snake
+# Draws the profile's live cards daily and on demand: contribution snake, GitHub stats and top languages
+# (navy and gold), published to the `output` branch. No outside card services are needed.
+name: Profile cards
 on:
   schedule:
     - cron: "17 2 * * *"
@@ -9,10 +10,16 @@ on:
 permissions:
   contents: write
 jobs:
-  snake:
+  cards:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+      - name: Stats and languages
+        run: python scripts/make_stats.py dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}

@@ -85,32 +85,18 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
   <a href="https://github.com/drssnaiml1-cell/algolang/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-0B1F3A?style=for-the-badge" alt="Apache 2.0"></a>
 </p>
 
-**Write AI systems as agents, not functions.** AlgoLang compiles governed multi-agent programs in which every decision is checked, explained, signed and tested before it ships.
+<p align="center"><b>Write AI systems as agents, not functions.</b><br>
+AlgoLang compiles governed multi-agent programs in which every decision is <b>checked, explained, signed and tested</b> before it ships.</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/drssnaiml1-cell/algolang"><img src="assets/algolang-features.svg" alt="AlgoLang features: agents not functions, confidence built in, safe by compilation, real-time events, trustworthy AI, fairness tests, signed accountability, ready at scale" width="100%"></a>
+</p>
 
-**Language & runtime**
-- Agents and flows instead of functions
-- `uncertain<T>` values with confidence
-- Compile-time safety rules (E100–E130)
-- AlgoPulse™ real-time event streams
-- Quantum circuits and verified QAOA
-
-</td>
-<td width="50%" valign="top">
-
-**Trust & scale**
-- Risk levels, PII redaction, explanations
-- Fairness and robustness tests in `eval`
-- Ed25519-signed audit and system cards
-- 21 enterprise applications, 120 domain packs
-- LLM & SLM graph optimisation
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/drssnaiml1-cell/algolang"><b>Explore AlgoLang →</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/drssnaiml1-cell/algolang/releases/latest"><b>Latest release</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/drssnaiml1-cell/algolang/tree/main/enterprise-apps"><b>21 applications</b></a>
+</p>
 
 <details>
 <summary><b>21 applications built in AlgoLang</b> (click to expand)</summary>

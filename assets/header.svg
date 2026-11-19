@@ -8,29 +8,38 @@
 .q{font:700 29px "Segoe UI",Helvetica,Arial,sans-serif;fill:#A8811C}
 .t{font:800 50px "Segoe UI",Helvetica,Arial,sans-serif;fill:#9C7A1E}
 .d{font:600 22px "Segoe UI",Helvetica,Arial,sans-serif;fill:#1E3A6E}
-.c{font:600 19px "Segoe UI",Helvetica,Arial,sans-serif;fill:#0B1F3A;letter-spacing:.5px}
+.c{font:600 18px "Segoe UI",Helvetica,Arial,sans-serif;fill:#0B1F3A;letter-spacing:.5px}
 .k{font:600 13px "Segoe UI",Helvetica,Arial,sans-serif;fill:#A8811C;letter-spacing:5px}
 .in{animation:in 1.2s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 .w1{animation:w 9s ease-in-out infinite}.w2{animation:w 13s ease-in-out infinite reverse}
 @keyframes w{0%,100%{transform:translateX(0)}50%{transform:translateX(-60px)}}
 .n{animation:p 3s ease-in-out infinite}@keyframes p{0%,100%{opacity:.25}50%{opacity:1}}
+.lg{font:800 31px "Segoe UI",Helvetica,Arial,sans-serif;fill:#C9A227}
+.lw{font:700 11px "Segoe UI",Helvetica,Arial,sans-serif;fill:#A8811C;letter-spacing:2.5px}
+.hx{animation:hx 2s ease-out backwards}@keyframes hx{from{stroke-dashoffset:276}}
+.hin{animation:hin 1s .9s ease-out backwards}@keyframes hin{from{opacity:0}}
+.orb,.orb2{transform-box:view-box;transform-origin:118px 140px}
+.orb{animation:rot 30s linear infinite}.orb2{animation:rot 9s linear infinite}@keyframes rot{to{transform:rotate(360deg)}}
+.lgs{animation:lgs 4.5s 2s ease-in-out infinite}@keyframes lgs{0%{transform:translateX(0) skewX(-20deg)}45%,100%{transform:translateX(200px) skewX(-20deg)}}
 </style>
 <rect width="1200" height="300" fill="url(#bg)"/>
 <rect width="1200" height="300" fill="url(#grid)"/>
-<g stroke="#B8932E" stroke-opacity=".45" stroke-width="1.2" fill="none">
-<path d="M70 70 L150 40 L210 95 L140 140 Z M150 40 L260 60 L210 95"/><path d="M1000 60 L1080 30 L1130 90 L1060 130 Z M1080 30 L1150 50"/>
+<defs><clipPath id="hc"><polygon points="118.0,102.0 150.9,121.0 150.9,159.0 118.0,178.0 85.1,159.0 85.1,121.0"/></clipPath></defs>
+<g aria-label="AlgoProfessor emblem">
+<circle class="orb" cx="118" cy="140" r="59" fill="none" stroke="#B8932E" stroke-opacity=".5" stroke-width="1.2" stroke-dasharray="3 7"/>
+<g class="orb2"><circle cx="118" cy="81" r="4.5" fill="#A8811C"/><circle cx="169.1" cy="169.5" r="3.5" fill="#1E3A6E"/><circle cx="66.9" cy="169.5" r="3" fill="#B8932E"/></g>
+<polygon points="118.0,94.0 157.8,117.0 157.8,163.0 118.0,186.0 78.2,163.0 78.2,117.0" fill="#FFFFFF" stroke="#A8811C" stroke-width="3" stroke-linejoin="round" class="hx" style="stroke-dasharray:276"/>
+<g class="hin"><polygon points="118.0,102.0 150.9,121.0 150.9,159.0 118.0,178.0 85.1,159.0 85.1,121.0" fill="#0B1F3A"/>
+<g clip-path="url(#hc)"><g stroke="#C9A227" stroke-opacity=".28" stroke-width="1"><line x1="78" y1="110" x2="158" y2="170"/><line x1="158" y1="110" x2="78" y2="170"/><line x1="118" y1="95" x2="118" y2="185"/></g>
+<rect class="lgs" x="28" y="80" width="18" height="120" fill="#FFFFFF" fill-opacity=".25"/></g>
+<text x="118" y="151" text-anchor="middle" class="lg">AP</text></g>
+<text x="118" y="223" text-anchor="middle" class="lw">ALGOPROFESSOR</text>
 </g>
-<g fill="#B8932E">
-<circle class="n" cx="70" cy="70" r="4"/><circle class="n" style="animation-delay:.5s" cx="150" cy="40" r="4"/><circle class="n" style="animation-delay:1s" cx="210" cy="95" r="4"/>
-<circle class="n" style="animation-delay:1.5s" cx="140" cy="140" r="4"/><circle class="n" style="animation-delay:2s" cx="260" cy="60" r="4"/>
-<circle class="n" style="animation-delay:.3s" cx="1000" cy="60" r="4"/><circle class="n" style="animation-delay:.9s" cx="1080" cy="30" r="4"/><circle class="n" style="animation-delay:1.4s" cx="1130" cy="90" r="4"/>
-<circle class="n" style="animation-delay:2.2s" cx="1060" cy="130" r="4"/><circle class="n" style="animation-delay:1.8s" cx="1150" cy="50" r="4"/>
-</g>
-<g class="in"><text x="600.0" y="62" text-anchor="middle" class="k">ALGOPROFESSOR AI R&amp;D SOLUTIONS · HYDERABAD</text></g>
-<g class="in" style="animation-delay:.2s"><text x="600.0" y="132" text-anchor="middle" class="t">Dr S Satyanarayana <tspan class="q">Ph.D.,PDF(AI).,FARSC</tspan></text></g>
-<g class="in" style="animation-delay:.35s"><text x="600.0" y="170" text-anchor="middle" class="c">International Postdoctoral Research Co-Supervisor  ·  NYUST (YunTech) &amp; NKUST, Taiwan</text></g>
-<g class="in" style="animation-delay:.5s"><text x="600.0" y="206" text-anchor="middle" class="d">Agentic AI Scientist  ·  Founder &amp; CEO, AlgoProfessor  ·  Creator of AlgoLang</text></g>
-<rect class="in" style="animation-delay:.7s" x="510.0" y="222" width="180" height="3" rx="1.5" fill="url(#gold)"/>
+<g class="in"><text x="660.0" y="62" text-anchor="middle" class="k">ALGOPROFESSOR AI R&amp;D SOLUTIONS · HYDERABAD</text></g>
+<g class="in" style="animation-delay:.2s"><text x="660.0" y="132" text-anchor="middle" class="t">Dr S Satyanarayana <tspan class="q">Ph.D.,PDF(AI).,FARSC</tspan></text></g>
+<g class="in" style="animation-delay:.35s"><text x="660.0" y="170" text-anchor="middle" class="c">International Postdoctoral Research Co-Supervisor  ·  NYUST (YunTech) &amp; NKUST, Taiwan</text></g>
+<g class="in" style="animation-delay:.5s"><text x="660.0" y="206" text-anchor="middle" class="d">Agentic AI Scientist  ·  Founder &amp; CEO, AlgoProfessor  ·  Creator of AlgoLang</text></g>
+<rect class="in" style="animation-delay:.7s" x="570.0" y="222" width="180" height="3" rx="1.5" fill="url(#gold)"/>
 <path class="w2" d="M-100 262 C 100 232, 300 292, 500 262 S 900 232, 1100 262 S 1300 292, 1400 262 V300 H-100 Z" fill="#B8932E" fill-opacity=".10"/>
 <path class="w1" d="M-100 272 C 150 247, 350 297, 600 272 S 1000 252, 1300 274 V300 H-100 Z" fill="#B8932E" fill-opacity=".22"/>
 <rect x=".5" y=".5" width="1199" height="299" fill="none" stroke="#B8932E" stroke-opacity=".35"/>

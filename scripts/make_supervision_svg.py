@@ -2,7 +2,7 @@ import sys, math
 W,H=1200,600
 esc=lambda t:t.replace("&","&amp;").replace("'","&#39;")
 # eye-friendly palette: sky, aqua, lavender, gold on deep navy
-C={"sky":("#7CC4FF","#4C8DFF"),"aqua":("#5EEAD4","#14B8A6"),"lav":("#C4B5FD","#8B5CF6"),"gold":("#FDE68A","#F5B83D")}
+C={"sky":("#FFB866","#FF9933"),"aqua":("#FFFFFF","#CBD5E1"),"lav":("#5EE38A","#138808"),"gold":("#8FA8FF","#2B4BD6")}  # saffron, white, India green, Ashoka Chakra blue
 stats=[("08","Ph.D. Research Scholars","doctoral supervision","sky",8),
        ("38","Int'l Postdoctoral Scholars","NYUST (YunTech) · NKUST, Taiwan","aqua",38),
        ("10","National Postdoctoral Scholars","India","lav",10),
@@ -14,8 +14,8 @@ F='"Segoe UI",Inter,Helvetica,Arial,sans-serif'
 o=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Research supervision: 8 Ph.D. research scholars, 38 international postdoctoral scholars, 10 national postdoctoral scholars, 56 scholars mentored. Research areas: '+esc(", ".join(t for r in rows for t,_ in r))+'">','<defs>',
 '<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081427"/><stop offset=".55" stop-color="#0D1F3C"/><stop offset="1" stop-color="#132A4F"/></linearGradient>',
 '<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".09"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".02"/></linearGradient>',
-'<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".14"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>',
-'<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7CC4FF"/><stop offset=".35" stop-color="#5EEAD4"/><stop offset=".7" stop-color="#C4B5FD"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>',
+'<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".18"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>',
+'<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF9933"/><stop offset=".33" stop-color="#FF9933"/><stop offset=".34" stop-color="#FFFFFF"/><stop offset=".66" stop-color="#FFFFFF"/><stop offset=".67" stop-color="#138808"/><stop offset="1" stop-color="#138808"/></linearGradient>',
 '<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>',
 '<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>',
 f'<clipPath id="clip"><rect width="{W}" height="{H}" rx="20"/></clipPath>']
@@ -23,7 +23,7 @@ for k,(a,b) in C.items():
     o.append(f'<linearGradient id="g{k}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{a}"/><stop offset="1" stop-color="{b}"/></linearGradient>')
 o.append('</defs>')
 o.append(f'''<style>
-.h{{font:700 13px {F};fill:#FDE68A;letter-spacing:4px}}
+.h{{font:700 13px {F};fill:#FFB866;letter-spacing:4px}}
 .n{{font:800 34px {F}}}
 .t{{font:700 16px {F};fill:#F1F5F9}}
 .s{{font:500 12.5px {F};fill:#94A3B8}}
@@ -42,22 +42,26 @@ o.append(f'''<style>
 .fl{{animation:fl 5s ease-in-out infinite}}@keyframes fl{{0%,100%{{transform:translateY(0)}}50%{{transform:translateY(-3px)}}}}
 .bd{{animation:bd 4s ease-in-out infinite}}@keyframes bd{{0%,100%{{stroke-opacity:.35}}50%{{stroke-opacity:.95}}}}
 .tw{{animation:tw 3s ease-in-out infinite}}@keyframes tw{{0%,100%{{opacity:.15}}50%{{opacity:.9}}}}
-.bar{{animation:bar 8s linear infinite}}@keyframes bar{{to{{transform:translateX(-1200px)}}}}
+.glint{{animation:gl 4s ease-in-out infinite}}@keyframes gl{{to{{transform:translateX(1400px)}}}}
 .pu{{animation:pu 2.4s ease-in-out infinite}}@keyframes pu{{0%,100%{{opacity:.5;r:4px}}50%{{opacity:1;r:6px}}}}
-.chip{{transform-box:fill-box;transform-origin:center}}
+.chip,.chk{{transform-box:fill-box;transform-origin:center}}
+.chk{{animation:spin 40s linear infinite}}@keyframes spin{{to{{transform:rotate(360deg)}}}}
 </style>''')
 o.append('<g clip-path="url(#clip)">')
 o.append(f'<rect width="{W}" height="{H}" fill="url(#bg)"/>')
-o.append('<circle class="blob1" cx="180" cy="120" r="170" fill="#4C8DFF" opacity=".22" filter="url(#blur)"/>')
-o.append('<circle class="blob2" cx="1020" cy="140" r="170" fill="#14B8A6" opacity=".2" filter="url(#blur)"/>')
-o.append('<circle class="blob3" cx="620" cy="520" r="200" fill="#8B5CF6" opacity=".18" filter="url(#blur)"/>')
+o.append('<circle class="blob1" cx="180" cy="120" r="170" fill="#FF9933" opacity=".20" filter="url(#blur)"/>')
+o.append('<circle class="blob2" cx="1020" cy="140" r="170" fill="#138808" opacity=".24" filter="url(#blur)"/>')
+o.append('<circle class="blob3" cx="620" cy="520" r="200" fill="#2B4BD6" opacity=".22" filter="url(#blur)"/>')
+cx0,cy0,RR=W/2,470,150
+sp="".join(f'<line x1="{cx0}" y1="{cy0}" x2="{cx0+RR*math.cos(math.radians(a*15)):.1f}" y2="{cy0+RR*math.sin(math.radians(a*15)):.1f}"/>' for a in range(24))
+o.append(f'<g class="chk" opacity=".07" stroke="#8FA8FF" fill="none"><circle cx="{cx0}" cy="{cy0}" r="{RR}" stroke-width="6"/><circle cx="{cx0}" cy="{cy0}" r="16" fill="#8FA8FF"/><g stroke-width="2.5">{sp}</g></g>')
 import random; random.seed(7)
 for i in range(26):
     x,y=random.randint(20,1180),random.randint(20,580)
     o.append(f'<circle class="tw" style="animation-delay:{random.random()*3:.2f}s" cx="{x}" cy="{y}" r="{random.choice([1,1.2,1.6])}" fill="#E2E8F0"/>')
 # animated top bar
-o.append('<g class="bar"><rect width="1200" height="4" fill="url(#bar)"/><rect x="1200" width="1200" height="4" fill="url(#bar)"/></g>')
-o.append(f'<circle class="pu" cx="{W/2-150}" cy="40" r="4" fill="#5EEAD4"/><text x="{W/2}" y="45" text-anchor="middle" class="h">RESEARCH SUPERVISION</text><circle class="pu" style="animation-delay:1.2s" cx="{W/2+150}" cy="40" r="4" fill="#5EEAD4"/>')
+o.append('<rect width="1200" height="6" fill="url(#bar)"/><rect class="glint" x="-200" width="200" height="6" fill="url(#shine)"/>')
+o.append(f'<circle class="pu" cx="{W/2-150}" cy="40" r="4" fill="#FF9933"/><text x="{W/2}" y="45" text-anchor="middle" class="h">RESEARCH SUPERVISION</text><circle class="pu" style="animation-delay:1.2s" cx="{W/2+150}" cy="40" r="4" fill="#5EE38A"/>')
 cw,gap,ch=264,24,196; x0=(W-(4*cw+3*gap))/2; y0=68
 R=38; circ=2*math.pi*R
 for i,(n,t,s,k,v) in enumerate(stats):

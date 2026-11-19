@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Dr S Satyanarayana Ph.D., PDF(AI), FARSC, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
+  <img src="assets/header.svg?v=20261119b" alt="Dr S Satyanarayana Ph.D., PDF(AI), FARSC, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
 </p>
 
 <p align="center"><b>International Postdoctoral Research Co-Supervisor</b><br>NYUST (YunTech) &amp; NKUST, Taiwan</p>
@@ -65,7 +65,7 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 ## Research Supervision
 
 <p align="center">
-  <img src="assets/research-supervision.svg" alt="Research supervision: 08 Ph.D. research scholars, 38 international postdoctoral scholars (NYUST and NKUST, Taiwan), 10 national postdoctoral scholars, 56 scholars mentored. Research areas: Agentic AI, AI, AGI, ASI, Machine Learning, Deep Learning, NLP, Reinforcement Learning, Graph ML, Quantum ML, Post-Quantum Security, IoT and Cybersecurity, Precision Healthcare, Medical Imaging, Autonomous Systems, Precision Agriculture" width="100%">
+  <img src="assets/research-supervision.svg?v=20261119b" alt="Research supervision: 08 Ph.D. research scholars, 38 international postdoctoral scholars (NYUST and NKUST, Taiwan), 10 national postdoctoral scholars, 56 scholars mentored. Research areas: Agentic AI, AI, AGI, ASI, Machine Learning, Deep Learning, NLP, Reinforcement Learning, Graph ML, Quantum ML, Post-Quantum Security, IoT and Cybersecurity, Precision Healthcare, Medical Imaging, Autonomous Systems, Precision Agriculture" width="100%">
 </p>
 
 ---
@@ -84,7 +84,7 @@ NYUST (YunTech), ICSL &amp; NKUST, Research Institute of IoT Cybersecurity, Taiw
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="assets/farsc-membership-card.png" alt="FARSC membership card, Open Association of Research Society, issued to Satyanarayana Sanakkayala" width="100%">
+  <img src="assets/farsc-membership-card.png?v=20261119b" alt="FARSC membership card, Open Association of Research Society, issued to Satyanarayana Sanakkayala" width="100%">
 </td>
 </tr>
 </table>

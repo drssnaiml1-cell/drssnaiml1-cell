@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg?v=20261119c" alt="Dr S Satyanarayana Ph.D., PDF(AI), FARSC, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
+  <img src="assets/header.svg?v=20261119d" alt="Dr S Satyanarayana Ph.D., PDF(AI), FARSC, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
 </p>
 
 <p align="center"><b>International Postdoctoral Research Co-Supervisor</b><br>NYUST (YunTech) &amp; NKUST, Taiwan</p>

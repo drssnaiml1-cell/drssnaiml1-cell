@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Dr. S. Satyanarayana: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Dr. S. Satyanarayana, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#0B1F3A"/><stop offset=".6" stop-color="#1E3A6E"/><stop offset="1" stop-color="#7A5E14"/></linearGradient>
 <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C9A227"/><stop offset=".5" stop-color="#F2D372"/><stop offset="1" stop-color="#C9A227"/></linearGradient>
@@ -7,6 +7,7 @@
 <style>
 .t{font:800 64px "Segoe UI",Helvetica,Arial,sans-serif;fill:#FFFFFF}
 .d{font:600 22px "Segoe UI",Helvetica,Arial,sans-serif;fill:#F2D372}
+.c{font:600 19px "Segoe UI",Helvetica,Arial,sans-serif;fill:#FFFFFF;fill-opacity:.92;letter-spacing:.5px}
 .k{font:600 13px "Segoe UI",Helvetica,Arial,sans-serif;fill:#C9A227;letter-spacing:5px}
 .in{animation:in 1.2s ease-out backwards}@keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 .w1{animation:w 9s ease-in-out infinite}.w2{animation:w 13s ease-in-out infinite reverse}
@@ -24,10 +25,11 @@
 <circle class="n" style="animation-delay:.3s" cx="1000" cy="60" r="4"/><circle class="n" style="animation-delay:.9s" cx="1080" cy="30" r="4"/><circle class="n" style="animation-delay:1.4s" cx="1130" cy="90" r="4"/>
 <circle class="n" style="animation-delay:2.2s" cx="1060" cy="130" r="4"/><circle class="n" style="animation-delay:1.8s" cx="1150" cy="50" r="4"/>
 </g>
-<g class="in"><text x="600.0" y="74" text-anchor="middle" class="k">ALGOPROFESSOR AI R&amp;D SOLUTIONS · HYDERABAD</text></g>
-<g class="in" style="animation-delay:.2s"><text x="600.0" y="148" text-anchor="middle" class="t">Dr. S. Satyanarayana</text></g>
-<g class="in" style="animation-delay:.5s"><text x="600.0" y="192" text-anchor="middle" class="d">Agentic AI Scientist  ·  Founder &amp; CEO, AlgoProfessor  ·  Creator of AlgoLang</text></g>
-<rect class="in" style="animation-delay:.7s" x="510.0" y="208" width="180" height="3" rx="1.5" fill="url(#gold)"/>
+<g class="in"><text x="600.0" y="62" text-anchor="middle" class="k">ALGOPROFESSOR AI R&amp;D SOLUTIONS · HYDERABAD</text></g>
+<g class="in" style="animation-delay:.2s"><text x="600.0" y="132" text-anchor="middle" class="t">Dr. S. Satyanarayana</text></g>
+<g class="in" style="animation-delay:.35s"><text x="600.0" y="170" text-anchor="middle" class="c">International Postdoctoral Research Co-Supervisor  ·  NYUST (YunTech) &amp; NKUST, Taiwan</text></g>
+<g class="in" style="animation-delay:.5s"><text x="600.0" y="206" text-anchor="middle" class="d">Agentic AI Scientist  ·  Founder &amp; CEO, AlgoProfessor  ·  Creator of AlgoLang</text></g>
+<rect class="in" style="animation-delay:.7s" x="510.0" y="222" width="180" height="3" rx="1.5" fill="url(#gold)"/>
 <path class="w2" d="M-100 262 C 100 232, 300 292, 500 262 S 900 232, 1100 262 S 1300 292, 1400 262 V300 H-100 Z" fill="#FFFFFF" fill-opacity=".10"/>
 <path class="w1" d="M-100 272 C 150 247, 350 297, 600 272 S 1000 252, 1300 274 V300 H-100 Z" fill="#C9A227" fill-opacity=".35"/>
 </svg>

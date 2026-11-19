@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Dr. S. Satyanarayana: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
+  <img src="assets/header.svg" alt="Dr. S. Satyanarayana, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
 </p>
 
-<h3 align="center">Ph.D., PDF (AI) · Hyderabad, India · 60+ SCI/Scopus/IEEE Publications · 11+ Patents · 11 Books</h3>
+<p align="center"><b>International Postdoctoral Research Co-Supervisor</b><br>NYUST (YunTech) &amp; NKUST, Taiwan</p>
+
+<h3 align="center">Ph.D., PDF (AI), FARSC · Hyderabad, India · 60+ SCI/Scopus/IEEE Publications · 11+ Patents · 11 Books</h3>
 
 <p align="center">
   <a href="https://www.algoprofessor.com"><img src="https://img.shields.io/badge/AlgoProfessor-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=C9A227" alt="AlgoProfessor website"></a>
@@ -44,7 +46,8 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 
 **At a glance**
 
-🎓 Ph.D., PDF (AI)<br>
+🎓 Ph.D., PDF (AI), FARSC<br>
+🌏 Intl. Postdoc Co-Supervisor, NYUST &amp; NKUST, Taiwan<br>
 📚 60+ SCI / Scopus / IEEE papers<br>
 💡 11+ published patents<br>
 📖 11 books<br>
@@ -53,6 +56,27 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 🧠 Creator of AlgoLang & ASTRA<br>
 📍 Hyderabad, India
 
+</td>
+</tr>
+</table>
+
+---
+
+## Fellowship & Memberships
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+**Fellow of Association of Research Society in Computing (FARSC)**<br>
+Open Association of Research Society, USA
+
+**International Postdoctoral Research Co-Supervisor**<br>
+NYUST (YunTech), ICSL &amp; NKUST, Research Institute of IoT Cybersecurity, Taiwan
+
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="assets/farsc-membership-card.png" alt="FARSC membership card, Open Association of Research Society, issued to Satyanarayana Sanakkayala" width="100%">
 </td>
 </tr>
 </table>

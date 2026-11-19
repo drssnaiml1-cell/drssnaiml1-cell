@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg?v=20261119d" alt="Dr S Satyanarayana Ph.D., PDF(AI), FARSC, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
+  <img src="assets/header.svg?v=20261119e" alt="Dr S Satyanarayana Ph.D., PDF(AI), FARSC, International Postdoctoral Research Co-Supervisor, NYUST (YunTech) and NKUST, Taiwan: Agentic AI Scientist, Founder and CEO of AlgoProfessor, Creator of AlgoLang" width="100%">
 </p>
 
-<p align="center"><b>International Postdoctoral Research Co-Supervisor</b><br>NYUST (YunTech) &amp; NKUST, Taiwan</p>
+<p align="center"><b>International Postdoctoral Research Co-Supervisor</b><br>NYUST (YunTech) &amp; NKUST, Taiwan<br>📧 Email: <a href="mailto:ceo@algoprofessor.com">ceo@algoprofessor.com</a></p>
 
 <h3 align="center">Ph.D., PDF (AI), FARSC · Hyderabad, India · 60+ SCI/Scopus/IEEE Publications · 11+ Patents · 11 Books</h3>
 

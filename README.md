@@ -51,7 +51,7 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 📚 60+ SCI / Scopus / IEEE papers<br>
 💡 11+ published patents<br>
 📖 11 books<br>
-🧑‍🎓 56 Ph.D. & postdoctoral scholars<br>
+🧑‍🎓 56 scholars: 08 Ph.D., 38 int'l &amp; 10 national postdocs<br>
 ⏳ 22 years in teaching & R&D<br>
 🧠 Creator of AlgoLang & ASTRA<br>
 📍 Hyderabad, India
@@ -59,6 +59,14 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 </td>
 </tr>
 </table>
+
+---
+
+## Research Supervision
+
+<p align="center">
+  <img src="assets/research-supervision.svg" alt="Research supervision: 08 Ph.D. research scholars, 38 international postdoctoral scholars (NYUST and NKUST, Taiwan), 10 national postdoctoral scholars, 56 scholars mentored. Research areas: Agentic AI, AI, AGI, ASI, Machine Learning, Deep Learning, NLP, Reinforcement Learning, Graph ML, Quantum ML, Post-Quantum Security, IoT and Cybersecurity, Precision Healthcare, Medical Imaging, Autonomous Systems, Precision Agriculture" width="100%">
+</p>
 
 ---
 
@@ -147,7 +155,7 @@ AlgoLang compiles governed multi-agent programs in which every decision is <b>ch
 | **Publications** | 60+ SCI / Scopus / IEEE journal and conference papers |
 | **Patents** | 11+ published patents |
 | **Books** | 11 books |
-| **Research areas** | Agentic AI · Graph ML · Explainable AI · Medical imaging · Cloud & IoT security · Energy-aware AI |
+| **Research areas** | Agentic AI · AI · AGI · ASI · Machine Learning · Deep Learning · NLP · Reinforcement Learning · Graph ML · Quantum ML · Post-Quantum Security · IoT & Cybersecurity · Precision Healthcare · Medical Imaging · Autonomous Systems · Precision Agriculture |
 | **Profiles** | [Google Scholar](https://scholar.google.com/citations?user=4Oo8gqoAAAAJ) · [ORCID](https://orcid.org/0000-0001-8285-113X) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=60329650200) |
 
 ---

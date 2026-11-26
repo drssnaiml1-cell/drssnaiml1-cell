@@ -9,9 +9,6 @@
 <p align="center">
   <a href="https://www.algoprofessor.com"><img src="https://img.shields.io/badge/AlgoProfessor-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=C9A227" alt="AlgoProfessor website"></a>
   <a href="mailto:ceo@algoprofessor.com"><img src="https://img.shields.io/badge/Email-C9A227?style=for-the-badge&logo=maildotru&logoColor=0B1F3A" alt="Email"></a>
-  <a href="https://scholar.google.com/citations?user=4Oo8gqoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://orcid.org/0000-0001-8285-113X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=60329650200"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=elsevier&logoColor=white" alt="Scopus"></a>
   <a href="https://github.com/drssnaiml1-cell/algolang"><img src="https://img.shields.io/badge/AlgoLang-C9A227?style=for-the-badge&logo=github&logoColor=0B1F3A" alt="AlgoLang"></a>
 </p>
 

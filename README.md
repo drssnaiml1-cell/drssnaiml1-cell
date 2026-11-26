@@ -4,7 +4,7 @@
 
 <p align="center"><b>International Postdoctoral Research Co-Supervisor</b><br>NYUST (YunTech) &amp; NKUST, Taiwan<br>📧 Email: <a href="mailto:ceo@algoprofessor.com">ceo@algoprofessor.com</a></p>
 
-<h3 align="center">Ph.D., PDF (AI), FARSC · Hyderabad, India · 60+ SCI/Scopus/IEEE Publications · 11+ Patents · 11 Books</h3>
+<h3 align="center">Ph.D., PDF (AI), FARSC · Hyderabad, India · 75+ SCI/Scopus/IEEE Publications · 11+ Patents · 11 Books</h3>
 
 <p align="center">
   <a href="https://www.algoprofessor.com"><img src="https://img.shields.io/badge/AlgoProfessor-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=C9A227" alt="AlgoProfessor website"></a>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/impact.svg" alt="Impact: 60+ publications, 11+ patents, 11 books, 56 Ph.D. and postdoctoral scholars, 22 years, 21 AI applications built in AlgoLang" width="100%">
+  <img src="assets/impact.svg" alt="Impact: 75+ publications, 11+ patents, 11 books, 56 Ph.D. and postdoctoral scholars, 22 years, 21 AI applications built in AlgoLang" width="100%">
 </p>
 
 ---
@@ -48,7 +48,7 @@ My research spans **agentic AI, trustworthy and explainable AI, graph machine le
 
 🎓 Ph.D., PDF (AI), FARSC<br>
 🌏 Intl. Postdoc Co-Supervisor, NYUST &amp; NKUST, Taiwan<br>
-📚 60+ SCI / Scopus / IEEE papers<br>
+📚 75+ SCI / Scopus / IEEE papers<br>
 💡 11+ published patents<br>
 📖 11 books<br>
 🧑‍🎓 56 scholars: 08 Ph.D., 38 int'l &amp; 10 national postdocs<br>
@@ -152,7 +152,7 @@ AlgoLang compiles governed multi-agent programs in which every decision is <b>ch
 
 | | |
 |:--|:--|
-| **Publications** | 60+ SCI / Scopus / IEEE journal and conference papers |
+| **Publications** | 75+ SCI / Scopus / IEEE journal and conference papers |
 | **Patents** | 11+ published patents |
 | **Books** | 11 books |
 | **Research areas** | Agentic AI · AI · AGI · ASI · Machine Learning · Deep Learning · NLP · Reinforcement Learning · Graph ML · Quantum ML · Post-Quantum Security · IoT & Cybersecurity · Precision Healthcare · Medical Imaging · Autonomous Systems · Precision Agriculture |
